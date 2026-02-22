@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6GTK3R9B5Y.com.appslin.AppPokerRun",
+                "paths": [
+                    "/event",
+                    "/event/*"
+                ]
+            }
+        ]
+    }
+}

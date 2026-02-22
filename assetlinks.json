@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.pokerrun",
+            "sha256_cert_fingerprints": [
+                "6D:FC:E7:F5:B7:8F:79:72:CE:00:85:82:60:D7:F0:74:F1:05:94:31:11:F5:1A:42:6D:6F:82:7E:1B:CF:7E:4C"
+            ]
+        }
+    }
+]
